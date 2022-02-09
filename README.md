@@ -1,8 +1,8 @@
 # Rock-paper-and-Scissor-game
-In this repository , I have written python code for snake , paper and scissor game.
+In this repository , I have written python code for rock , paper and scissor game.
 There will be match between player and the computer.
 There will be five rounds in total.
-Points will be given to the player who win.
+Points will be given to the player who wins.
 In case of tie match , both computer and player will be given each point.
 The one who has more points at the end will be consider winner.
 
