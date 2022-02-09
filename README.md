@@ -1,4 +1,4 @@
-# Snake-paper-and-Scissor-game
+# Rock-paper-and-Scissor-game
 In this repository , I have written python code for snake , paper and scissor game.
 There will be match between player and the computer.
 There will be five rounds in total.
